@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SeinPierre
-- 👀 I’m interested in software testing and quality, improving CI/CD and devops
+- 👀 I'm focused on cloud infrastructure, IaC, DevOps
 - 🌱 I’m currently learning rust,wasm for fun
 
 <!---
